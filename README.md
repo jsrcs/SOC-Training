@@ -6,5 +6,5 @@
 - Develop and implement IDS signatures
 - Escalate the security incidents to the Tier 2 and Team Lead if needed
 ## Experience
-The content in this course provides opportunities to practice with many different industry tools and frameworks. The scope covered is very broad and encourages for further study with expansive frameworks like MITRE ATT&CK and OSINT.
+The content in this course provides opportunities to practice with many different industry tools and frameworks. The scope covered is very broad and encourages for further study with expansive frameworks like MITRE ATT&CK and OSINT, and tools like Splunk/Wireshark/SIEM.
 ## Certificate
