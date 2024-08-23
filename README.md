@@ -1,4 +1,4 @@
-# TryHackMeSOC Level 1
+# TryHackMe SOC Tier 1
 `https://tryhackme.com/path/outline/soclevel1`
 ## Objectives:
 - Monitor and investigate alerts (in a 24*7 operations environment)
